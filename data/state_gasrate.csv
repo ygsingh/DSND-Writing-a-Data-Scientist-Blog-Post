@@ -1,53 +1,53 @@
-,State,Rate
-0,Oklahoma,4.095
-1,Georgia,4.111
-2,Arkansas,4.116
-3,Kansas,4.123
-4,Mississippi,4.155
-5,Louisiana,4.195
-6,South Dakota,4.199
-7,Missouri,4.209
-8,Nebraska,4.209
-9,South Carolina,4.217
-10,Texas,4.229
-11,Colorado,4.235
-12,Minnesota,4.238
-13,North Dakota,4.248
-14,Tennessee,4.255
-15,Iowa,4.272
-16,New Mexico,4.286
-17,Alabama,4.287
-18,Kentucky,4.307
-19,Wyoming,4.315
-20,North Carolina,4.342
-21,Wisconsin,4.388
-22,Montana,4.406
-23,Ohio,4.443
-24,Virginia,4.456
-25,West Virginia,4.458
-26,Florida,4.561
-27,Michigan,4.567
-28,Indiana,4.576
-29,Maryland,4.576
-30,Delaware,4.588
-31,San Juan,4.602
-32,Connecticut,4.654
-33,New Hampshire,4.673
-34,Utah,4.679
-35,Rhode Island,4.697
-36,Idaho,4.712
-37,Massachusetts,4.713
-38,Vermont,4.715
-39,New Jersey,4.731
-40,Pennsylvania,4.754
-41,Maine,4.761
-42,Washington DC,4.839
-43,New York,4.901
-44,Arizona,4.960
-45,Illinois,4.977
-46,Oregon,5.176
-47,Alaska,5.184
-48,Washington,5.213
-49,Nevada,5.234
-50,Hawaii,5.412
-51,California,6.119
+State,Rate
+Oklahoma,4.095
+Georgia,4.110
+Arkansas,4.114
+Kansas,4.124
+Mississippi,4.156
+Louisiana,4.192
+South Dakota,4.199
+Missouri,4.210
+Nebraska,4.213
+South Carolina,4.214
+Texas,4.228
+Minnesota,4.238
+Colorado,4.240
+North Dakota,4.243
+Tennessee,4.258
+Iowa,4.271
+Alabama,4.285
+New Mexico,4.292
+Kentucky,4.308
+Wyoming,4.315
+North Carolina,4.343
+Wisconsin,4.390
+Montana,4.402
+Ohio,4.443
+Virginia,4.453
+West Virginia,4.458
+Florida,4.560
+Michigan,4.572
+Maryland,4.576
+Indiana,4.577
+Delaware,4.593
+San Juan,4.599
+Connecticut,4.653
+New Hampshire,4.673
+Utah,4.675
+Rhode Island,4.693
+Idaho,4.698
+Massachusetts,4.712
+Vermont,4.716
+New Jersey,4.733
+Pennsylvania,4.750
+Maine,4.763
+Washington DC,4.832
+New York,4.901
+Arizona,4.951
+Illinois,4.977
+Oregon,5.177
+Alaska,5.196
+Washington,5.203
+Nevada,5.239
+Hawaii,5.399
+California,6.118

@@ -2,7 +2,7 @@
 
 ## Motivation for the proect
 
-Gas prices have been fluctuating rapidly all over the world. Some goverments are proposing solutions like tax break, etc, to curb the effects of high gas prices. With this project, I am intereseted in know how much of the gas prices paid by customers end up with the government. I am interested in finding out the relationship between various types of taxes related to gasoline in the USA.
+Gas prices have been fluctuating rapidly all over the world. Some goverments are proposing solutions like tax break, etc, to curb the effects of high gas prices. With this project, I am intereseted in knowing how much of the gas prices paid by customers end up with the government. I am interested in finding out the relationship between various types of taxes related to gasoline in the USA.
 
 Having a clear idea on how much goes where can help me answer the following questions:
 

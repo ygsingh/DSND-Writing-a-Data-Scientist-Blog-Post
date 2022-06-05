@@ -22,21 +22,21 @@ Having a clear idea on how much goes where can help me answer the following ques
 
 ## Files
 
-├── data
-│   ├── fuel_data.csv
-│   ├── fueltaxes.xls
-│   ├── state_areas.csv
-│   ├── state_code.csv
-│   ├── state_fuelprice.csv
-│   ├── state_gasrate.csv
-│   ├── state_gastax.csv
-│   ├── state_latlong.csv
-│   ├── state_pop_area.csv
-│   ├── state_population.csv
-│   └── state_salestax.csv
-├── README.md
-├── scrape_website.ipynb
-└── Write a Data Science Blog - Data Preparation.ipynb
+├── data  
+│   ├── fuel_data.csv   
+│   ├── fueltaxes.xls   
+│   ├── state_areas.csv   
+│   ├── state_code.csv   
+│   ├── state_fuelprice.csv   
+│   ├── state_gasrate.csv   
+│   ├── state_gastax.csv   
+│   ├── state_latlong.csv   
+│   ├── state_pop_area.csv   
+│   ├── state_population.csv   
+│   └── state_salestax.csv   
+├── README.md   
+├── scrape_website.ipynb   
+└── Write a Data Science Blog - Data Preparation.ipynb   
 
 ## Results Summary
 1. We found that the state with most expensive gas in the USA is California and the least expensive gas is Oklahoma.

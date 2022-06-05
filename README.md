@@ -1,6 +1,6 @@
 # DSND-Writing-a-Data-Scientist-Blog-Post
 
-## Motivation for the proect
+## Motivation for the project
 
 Gas prices have been fluctuating rapidly all over the world. Some goverments are proposing solutions like tax break, etc, to curb the effects of high gas prices. With this project, I am intereseted in knowing how much of the gas prices paid by customers end up with the government. I am interested in finding out the relationship between various types of taxes related to gasoline in the USA.
 
@@ -11,6 +11,10 @@ Having a clear idea on how much goes where can help me answer the following ques
 2. What are the types of taxes paid on gasoline and how much are these taxes in various states in the USA?
 
 3. What are the factors affecting gas prices along with their respective shares?
+
+A medium article was published with the results of this analysis, here's the link to the article: 
+
+https://medium.com/@ygsingh101/what-is-driving-the-gas-prices-in-the-usa-ff915aefe6d5
 
 ## Libraries Used
 1. urllib
